@@ -1,0 +1,1 @@
+print("Série de Fibonacci até " + _n + ": "+ _x1 + ", " + _x2 + ", ");
